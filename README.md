@@ -6,9 +6,18 @@ Um pouco sobre mim:
  - Sou um entusiasta de tecnologia e desenvolvimento de software, sempre curioso para explorar novas linguagens de programação e frameworks. Gosto de resolver problemas complexos com soluções simples e eficazes. Sou desenvolvedor em formação, apaixonado por criar soluções que fazem a diferença. Me interesso em aprender sobre novas tecnologias e aplicá-las em projetos práticos. Atualmente, sou estudante de Ciência da Computação na Universidade Federal de Alfenas, onde estou no sexto período. Minha formação está me proporcionando uma sólida base em áreas específicas de estudo, como desenvolvimento web, redes de computadores, entre outros.
 
 
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox)
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/otavio-augusto-in)
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/otaviosouzamartins/)
+<div>
+  <a href="mailto:otaviomartins2002@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/otavioaugustomartins/">
+   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/otaviosouzamartins/">
+   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</div>
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=otavioaugustosouzamartins&layout=pie&hide=html)](https://github.com/otvioaugustosouzamartins/github-readme-stats)
 ![otavioaugustosouzamartins GitHub stats](https://github-readme-stats.vercel.app/api?username=otavioaugustosouzamartins&show_icons=true&theme=radical)
