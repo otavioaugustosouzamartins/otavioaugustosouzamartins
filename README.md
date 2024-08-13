@@ -10,7 +10,7 @@ Um pouco sobre mim:
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/otavio-augusto-in)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/otaviosouzamartins/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=otavioaugustosouzamartins&layout=pie)](https://github.com/otvioaugustosouzamartins/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=otavioaugustosouzamartins&layout=pie&hide=html)](https://github.com/otvioaugustosouzamartins/github-readme-stats)
 ![otavioaugustosouzamartins GitHub stats](https://github-readme-stats.vercel.app/api?username=otavioaugustosouzamartins&show_icons=true&theme=radical)
 
 
