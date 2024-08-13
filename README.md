@@ -1,10 +1,9 @@
-### Olá! Eu sou o Otávio 🖐
-### Sejam Bem-vindos(as) ao meu Github
+### Hello! I'm Otávio 🖐
+### welcome to my github
 
-Um pouco sobre mim:
+ About me:
 
- - Sou um entusiasta de tecnologia e desenvolvimento de software, sempre curioso para explorar novas linguagens de programação e frameworks. Gosto de resolver problemas complexos com soluções simples e eficazes. Sou desenvolvedor em formação, apaixonado por criar soluções que fazem a diferença. Me interesso em aprender sobre novas tecnologias e aplicá-las em projetos práticos. Atualmente, sou estudante de Ciência da Computação na Universidade Federal de Alfenas, onde estou no sexto período. Minha formação está me proporcionando uma sólida base em áreas específicas de estudo, como desenvolvimento web, redes de computadores, entre outros.
-
+ - I am a technology and software development enthusiast, always curious to explore new programming languages ​​and frameworks. I like solving complex problems with simple and effective solutions. I'm a developer in training, passionate about creating solutions that make a difference. I'm interested in learning about new technologies and applying them in practical projects. I am currently a Computer Science student at the Federal University of Alfenas, where I am in the sixth period. My training is providing me with a solid foundation in specific areas of study, such as web development, computer networks, among others.
 
 <div>
   <a href="mailto:otaviomartins2002@gmail.com">
@@ -23,10 +22,10 @@ Um pouco sobre mim:
 ![otavioaugustosouzamartins GitHub stats](https://github-readme-stats.vercel.app/api?username=otavioaugustosouzamartins&show_icons=true&theme=radical)
 
 
-## Tecnologias utilizadas
+## Technologies used
 <div style="display: inline_block"><br/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" alt="css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
+  <img align="center" alt="css" src="https://img.shields.io/badge/CSS-FF0000?&style=for-the-badge&logo=css3&logoColor=black" />
   <img align="center" alt="c" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img align="center" alt="c++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
    <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -37,7 +36,7 @@ Um pouco sobre mim:
    <img align="center" alt="GIT" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
 </div><br/>
 
-## IDE´s utilizadas
+## IDE's used
 
 <div style="display: inline_block"><br/>
    <img align="center" alt="Colab" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" />
