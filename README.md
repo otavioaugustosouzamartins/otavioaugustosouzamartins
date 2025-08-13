@@ -1,9 +1,36 @@
 ### Hello! I'm Otávio 🖐
 ### welcome to my github
 
- About me:
+ 🔹 About me:
 
- - I am a technology and software development enthusiast, always curious to explore new programming languages ​​and frameworks. I like solving complex problems with simple and effective solutions. I'm a developer in training, passionate about creating solutions that make a difference. I'm interested in learning about new technologies and applying them in practical projects. I am currently a Computer Science student at the Federal University of Alfenas, where I am in the sixth period. My training is providing me with a solid foundation in specific areas of study, such as web development, computer networks, among others.
+I’m a Computer Science student at the Federal University of Alfenas (UNIFAL-MG), passionate about technology, problem-solving, and software development. I enjoy exploring new programming languages, frameworks, and tools, applying them to real-world projects.
+
+I believe in creating simple, effective, and scalable solutions to solve complex challenges. Currently, I’m expanding my skills in web development, automation, and API integrations, while also diving deeper into computer networks and data structures.
+
+🔹 Hard Skills:
+
+- Programming Languages: JavaScript, Python, C, C++
+
+- Web Development: HTML, CSS, Node.js, React
+
+- Automation & APIs: REST API integration, data processing, workflow automation
+
+- Databases: MySQL, PostgreSQL, MongoDB
+
+- Tools & Technologies: Git/GitHub, n8n, Docker, Linux
+
+- Other Skills: Data cleaning, process optimization, troubleshooting
+
+ 🔹 Interests:
+ 
+- Software Engineering – Back-end, automation, and API-based systems
+
+- Web Development – Building responsive, efficient, and maintainable applications
+
+- Artificial Intelligence & Data Science – Applying ML techniques to solve real problems
+
+- Cloud & DevOps – Exploring CI/CD, cloud services, and containerization
+
 
 <div>
   <a href="mailto:otaviomartins2002@gmail.com">
